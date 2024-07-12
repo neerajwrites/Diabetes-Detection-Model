@@ -1,0 +1,5 @@
+Working of the model
+Entering values in the model and getting precise results/report for diabetes detection.
+It will gives value in the Binary form which is in 0,1.
+If 1 comes in output than the paitent suffers from diabetes. or
+If 0 comes than paitent have not to worry he is not affected with this chronic disease.
